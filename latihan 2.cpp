@@ -9,4 +9,4 @@ int main() {
 	
 	cout << "Value of str is : " << str << endl;  // tampilkan variable stre
 	 
-} 
+}
